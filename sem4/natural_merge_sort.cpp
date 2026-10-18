@@ -7,7 +7,6 @@
 using namespace std;
 
 namespace {
-// Одна строка временного файла хранит одну естественную серию.
 template <typename T>
 size_t distribute(const string& source, const string& first, const string& second) {
     ifstream a(source);
