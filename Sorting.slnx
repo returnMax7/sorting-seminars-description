@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="sem1_4/sem1_4.vcxproj" Id="0eb6279c-e01d-4c4a-b4be-ea604f735a70" />
+  <Project Path="sem2/sem2.vcxproj" Id="f5c7a53e-0235-4ae9-8490-2c8ca0292644" />
+  <Project Path="sem3/sem3.vcxproj" Id="7f801566-e648-4dff-9c7e-6cebd62a5fbc" />
+  <Project Path="sem4/sem4.vcxproj" Id="792ff84b-afcc-4944-be0a-ee0f98adeb88" />
+  <Project Path="SortingTests/SortingTests.vcxproj" Id="0ccbc35c-2d89-4916-86b0-b03cbabf33ab" />
+</Solution>
