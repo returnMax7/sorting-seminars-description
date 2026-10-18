@@ -78,7 +78,7 @@ void merge_files(const string& source,
     }
     while (has_x || has_y) {
         size_t i = 0;//для б
-        size_t j = 0;// для а
+        size_t j = 0;// для с
 
         while (has_x && has_y && i < k && j < k) {
             if (x <= y) {
@@ -108,7 +108,7 @@ void merge_files(const string& source,
 
 }
 
-} // namespace
+} 
 
 template <typename T>
 void two_phase_merge_sort(const string & source) {
