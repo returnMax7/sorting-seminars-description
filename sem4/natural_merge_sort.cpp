@@ -10,9 +10,9 @@ namespace {
 template <typename T>
 size_t distribute(const string& source, const string& first, const string& second) {
     ifstream a(source);
-    if (!a) throw runtime_error("Cannot open source file");
+    if (!a) throw runtime_error("Не удалось открыть основной файл");
     ofstream b(first), c(second);
-    if (!b || !c) throw runtime_error("Cannot create temporary files");
+    if (!b || !c) throw runtime_error("Не удалось создать временные файлы");
     b << setprecision(numeric_limits<T>::max_digits10);
     c << setprecision(numeric_limits<T>::max_digits10);
     T previous;

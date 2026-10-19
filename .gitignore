@@ -1,27 +1,24 @@
-# Visual Studio
+# Visual Studio and build output
 .vs/
-*.user
-*.suo
-
-# Build directories
 bin/
 obj/
 x64/
 x86/
-[Bb]uild/
 [Dd]ebug/
 [Rr]elease/
-out/
-
-# Compiled files
+*.user
+*.suo
 *.obj
-*.exe
-*.dll
-*.lib
 *.pdb
 *.idb
 *.ilk
 *.tlog/
-
-# Temporary files
 *.tmp
+
+# Old unused copies and starter files
+third_party/
+sem1_4/sorting/
+SortingTests/SortingTests.cpp
+sem4/sem4.cpp
+
+demo_files/

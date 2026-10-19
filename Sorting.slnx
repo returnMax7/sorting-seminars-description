@@ -8,4 +8,6 @@
   <Project Path="sem3/sem3.vcxproj" Id="7f801566-e648-4dff-9c7e-6cebd62a5fbc" />
   <Project Path="sem4/sem4.vcxproj" Id="792ff84b-afcc-4944-be0a-ee0f98adeb88" />
   <Project Path="SortingTests/SortingTests.vcxproj" Id="0ccbc35c-2d89-4916-86b0-b03cbabf33ab" />
+<Project Path="SortingDemo/SortingDemo.vcxproj" Id="65a03ab5-72df-4406-899e-ad406ce60874" />
 </Solution>
+
